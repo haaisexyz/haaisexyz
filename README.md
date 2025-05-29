@@ -5,9 +5,13 @@ Estou cursando análise e desenvolvimento de sistemas na faculdade Estácio e co
 
 ## 📚 Estudando
 • C
+
 • Python
+
 • JavaScript
+
 • Git
+
 
 
 ## 👾 Hobbys
