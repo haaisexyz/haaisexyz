@@ -1,6 +1,14 @@
 ## 👀 Sobre mim
 
-Atualmente cursando análise e desenvolvimento de sistemas na faculdade Estácio 🤓
+Estou cursando análise e desenvolvimento de sistemas na faculdade Estácio e com um forte desejo em seguir carreira nessa área ou similar — atualmente explorando C e Python!
 
 
-Sou uma pessoa que sempre tive interesse e curiosidade em aprender/me aprofundar por TI e atualmente estou explorando C, Python e JavaScript
+
+
+
+   
+      
+
+ 
+
+
