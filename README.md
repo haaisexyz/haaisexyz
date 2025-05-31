@@ -14,7 +14,7 @@ Estou cursando análise e desenvolvimento de sistemas na faculdade Estácio e co
 
 
 
-## 👾 Hobbys
+## 👾 Hobbies
 
 No meu tempo vago eu gosto bastante de jogar, aprender novos sistemas operacionais e conversar com meus amigos 
 
